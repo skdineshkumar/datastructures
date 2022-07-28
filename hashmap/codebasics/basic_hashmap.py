@@ -1,7 +1,7 @@
 #A basic hashmap class in python3. This will work like a dictionary in Python
 """
-Builtin funcions used:
-ord() = This python builtin function returns the number representing the unicode of a specified charaacter
+Builtin functions used:
+ord() = This python builtin function returns the number representing the unicode of a specified character
 
 User defined variables:
 arr = array/list
