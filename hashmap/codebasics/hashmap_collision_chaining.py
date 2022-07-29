@@ -1,4 +1,4 @@
-#Collision handling in Hashmap wih linked list. This will work like a dictionary in Python
+#Collision handling in Hashmap wih chaining. This will work like a dictionary in Python
 """
 Builtin functions used:
 ord() = This python builtin function returns the number representing the unicode of a specified character
